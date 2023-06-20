@@ -8,8 +8,8 @@
 3. [Cachorro.](Cachorro.java)
 4. [Gato.](Gato.java)
 5. [Animável.](Animavel.java)
-6. [Zoologico.](Zoologico.java)
-7. [Veterinario.](Veterinario.java)
+6. [Zoológico.](Zoologico.java)
+7. [Veterinário.](Veterinario.java)
 
 <!-- Informações -->
 ## &#8505; Informações
